@@ -1,0 +1,67 @@
+body {
+  background-color: #F9F9F9;
+}
+h1 {
+  color: #79DAE8;
+}
+h2 {
+  color: #79DAE8;
+}
+h3 {
+  color: #79DAE8;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #79DAE8;
+  border-width: 5px;
+  width: 500px;
+}
+h6 {
+  text-align:left;
+}
+
+
+
+/* Features-Section */
+#features {
+  padding-top: 7%;
+  padding-bottom: 7%;
+  padding-left: 10%;
+  padding-right: 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%
+}
+.icon{
+  color: #ef8172;
+  padding-bottom: 7%;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+.omo {
+  font: montserrat;
+  width: 500px;
+  line-height: 5rem;
+  font-size: 100px;
+}
+.nurse {
+  text-align: right;
+}
+
+
+
+@media (max-width: 1028px) {
+body {
+  text-align: center;
+}
+.t2 {
+padding-left: 36%;
+
+}
+hr {
+  width: 10%;
+}
+}
