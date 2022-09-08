@@ -1,5 +1,6 @@
 body {
   background-color: #F9F9F9;
+  font-size: 1.5rem;
 }
 h1 {
   color: #79DAE8;
@@ -50,10 +51,12 @@ h6 {
 .nurse {
   text-align: right;
 }
+.af {
+  font-size: 1rem;
+}
 
 
-
-@media (max-width: 1028px) {
+@media (max-width: 1024px) {
 body {
   text-align: center;
 }
